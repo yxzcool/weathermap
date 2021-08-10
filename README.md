@@ -13,7 +13,11 @@ weather forecast shown above is a microservice applicaiton based on ServiceComb,
 4、 weather service provides current weather information in specified city, based on java  
 5、	weather-beta is the newer version of weather，newly added the ultraviolet rays information, based on java
 
+！！！！斯特恩 Steven
 to deploy it on servicestage： [ServiceComb on ServiceStage](https://support.huaweicloud.com/bestpractice-servicestage/servicestage_bestpractice_0108.html)  
 runtime interface is as shown below：
 
 ![](https://github.com/servicestage-demo/weathermap/blob/master/weathermap.JPG)
+
+
+
